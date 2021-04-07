@@ -12,7 +12,8 @@ Please check below for a short list of the projects.
 1. [Project A](https://github.com/Kjablonska/Numerical-Methods/tree/projectA)
 - Machine epsilon
 - Solving system of n linear equations Ax = b using Gaussian elimination method with pivoting
-- Gauss-Seidel and Jacobi iterative algorithms  
+- Gauss-Seidel and Jacobi iterative algorithms
+- QR factorization for finding eigenvalues.  
 2. [Project B](https://github.com/Kjablonska/Numerical-Methods/tree/projectB)  
 - The false position method – regula falsi & The Newton’s method – tangent method
 - Muller’s method
